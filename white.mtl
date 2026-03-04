@@ -1,0 +1,50 @@
+newmtl white
+Ka 0.500 0.500 0.700
+Kd 0.500 0.500 0.700
+Ks 0.000 0.000 0.000
+Ns 10.000
+d 1.0
+Tr 0.0
+illum 0
+
+newmtl sand
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1
+illum 1
+map_Kd sand.png
+
+newmtl stonetiles
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1
+illum 1
+map_Kd stonetiles.jpg
+
+newmtl grass
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1
+illum 1
+map_Kd grass.png
+
+newmtl water
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1
+illum 1
+map_Kd water.png
+
+newmtl camouflage
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1
+illum 1
+map_Kd camouflage.png
+
+
