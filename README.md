@@ -7,3 +7,6 @@ In this way, we can create a navmesh out of contrained delaunday triangles.
 An example can be found (delaunay.html) which uses the navmesh created by scipy_delaunay.py
 Another (better?) example can be found (t1.html) which uses the updated scipy_delaunay2.py (which accepts a dat file
 (e.g. t1.dat) which will create an obj file that can be used by aframe navmesh (example t1.html)
+scipy_delaunay3.py fixes issues so that multiple objects can be used to define non walkable areas. This script will become the 
+default over time. It is used to create b.obj which is used by b.html
+
